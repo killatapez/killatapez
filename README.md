@@ -1,18 +1,13 @@
 ### Hi there 👋, i'm Evan!
-#### I am a front-end developer
+#### I am a middle full-stack + DEVOPS developer
 
-I've been developing for 3 years but still haven't decided on what am i willing to contribute for the rest of my life, but right now my favorite things are 🌐 websites and 🎮 games
+I have over 2 years of experience and my main skill is creating website from idea to a completed project 
 
-I wish to become a professional game-dev or a front-end developer
-(if u can help me with that it would be awesome!)
+Frontend: React, MobX, JS/TS, PHP, Blade, Tailwind CSS, Radix UI, YARL, Yandex Maps API, TinaCMS
+Backend: Next.js, Node.js, Laravel, PostgreSQL, MySQL, Redis, MongoDB, SQLite, JWT
+DevOPS: Docker, nginx, Apache, GitLab CI, Ubuntu, Unix, cron
 
-Skills: HTML/CSS, C#, C++, Python, Kotlin
-
-- 💸 Looking for a job
-- 🌱 Currently learning: React 
-
-My resume:
-[Snigirev_Ivan_CV.pdf](https://github.com/kadeler/kadeler/files/10611184/Snigirev_Ivan_CV.3.pdf)
+- 💸 Currently working, but open for opportunities
 
 
 
