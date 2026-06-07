@@ -9,7 +9,7 @@ DevOPS: Docker, nginx, Apache, GitLab CI, Ubuntu, Unix, cron
 
 - 💸 Currently working, but open for opportunities
 
-
+[Here's my cases in case you're interested in what i can offer](https://github.com/killatapez/killatapez/blob/main/cases.md)
 
 How to contact me:
 - Discord: https://discord.com/users/220219840466518016
